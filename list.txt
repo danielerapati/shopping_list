@@ -1,9 +1,8 @@
 tomatoes
 carrots
-glue
-nails
-beans
+beer
+coconut milk
+wine
+git books
+github books
 
-apples
-pears
-more carrots
