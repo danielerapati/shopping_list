@@ -1,6 +1,7 @@
 tomatoes
 carrots
-glue
-nails
 beer
 coconut milk
+wine
+git books
+github books
